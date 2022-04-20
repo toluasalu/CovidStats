@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="AmberLight">#FFfffd61</color>
+    <color name="Amber">#FFFFCA28</color>
+    <color name="AmberDark">#FFC79A00</color>
+    <color name="Pink">#FFf48fb1</color>
+    <color name="LightPink">#FFffc1e3</color>
+    <color name="DarkPink">#FFbf5f82</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
